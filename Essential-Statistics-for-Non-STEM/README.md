@@ -43,15 +43,3 @@ With the following software and hardware list you can run all code files present
 | 1        | Google Colab or Jupyter Notebook                  | Windows, Mac OS X, and Linux (Any) |
 
 
-
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781838984847_ColorImages.pdf).
-
-
-### Related products <Other books you may enjoy>
-* Practical Data Analysis Using Jupyter Notebook [[Packt]](https://www.packtpub.com/product/practical-data-analysis-using-jupyter-notebook/9781838826031) [[Amazon]](https://www.amazon.com/dp/1838826033)
-
-* Hands-On Mathematics for Deep Learning [[Packt]](https://www.packtpub.com/product/hands-on-mathematics-for-deep-learning/9781838647292) [[Amazon]](https://www.amazon.com/dp/1838647295)
-
-## Get to Know the Author(s)
-**Rongpeng Li**
-is a data science instructor and a senior data scientist at Galvanize, Inc. He has previously been a research programmer at Information Sciences Institute, working on knowledge graphs and artificial intelligence. He has also been the host and organizer of the Data Analysis Workshop Designed for Non-STEM Busy Professionals at LA.
