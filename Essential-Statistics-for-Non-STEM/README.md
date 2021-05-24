@@ -5,9 +5,8 @@
 
 **Get to grips with the statistics and math knowledge needed to enter the world of data science with Python**
 
-## What is this book about?
-Statistics remain the backbone of modern analysis tasks, helping you to interpret the results produced by data science pipelines. This book is a detailed guide covering the math and various statistical methods required for undertaking data science tasks.
 
+Statistics remain the backbone of modern analysis tasks, helping you to interpret the results produced by data science pipelines. 
 The following exciting features: 
 * Find out how to grab and load data into an analysis environment
 * Perform descriptive analysis to extract meaningful summaries from data
@@ -17,8 +16,7 @@ The following exciting features:
 
 
 
-<a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
-alt="https://www.packtpub.com/" border="5" /></a>
+
 
 
 ## Instructions and Navigations
